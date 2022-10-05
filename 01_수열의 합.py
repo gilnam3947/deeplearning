@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Sep 25 00:35:10 2022
-
-@author: HappyDay
-"""
 # 시그마
 import numpy as np
 
