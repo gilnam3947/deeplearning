@@ -1,6 +1,6 @@
-#경사하강법
+################ 경사하강법
 
-#!pip install matplotlib
+################ !pip install matplotlib
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -19,7 +19,7 @@ epochs = 2001
 
 n = len(x)
 
-#경사하강법
+################ 경사하강법
 for i in range(epochs):
     y_pred = a * x + b
     error = y - y_pred
